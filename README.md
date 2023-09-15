@@ -17,4 +17,4 @@ nmap library: You can install it using *pip install python-nmap.*
 termcolor library: You can install it using *pip install termcolor.*
 
 # Usage
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]![usage](https://github.com/Yamashita012/steady_portScanner/assets/59716603/362a48cd-3266-4108-98da-a2d76f7df25e)
+![usage screenshot](https://github.com/Yamashita012/steady_portScanner/assets/59716603/362a48cd-3266-4108-98da-a2d76f7df25e)
