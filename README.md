@@ -13,8 +13,8 @@ This Python script is a simple network scanner that utilizes the nmap library to
 ### Before using this script, make sure you have the following prerequisites installed:
 
 ***Python 3.x***
-nmap library: You can install it using *pip install python-nmap.*
-termcolor library: You can install it using *pip install termcolor.*
+- nmap library: You can install it using *pip install python-nmap.*
+- termcolor library: You can install it using *pip install termcolor.*
 
 # Usage
-![usage screenshot](https://github.com/Yamashita012/steady_portScanner/assets/59716603/362a48cd-3266-4108-98da-a2d76f7df25e)
+![](https://github.com/Yamashita012/steady_portScanner/assets/59716603/362a48cd-3266-4108-98da-a2d76f7df25e)
